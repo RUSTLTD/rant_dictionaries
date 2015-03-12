@@ -1,0 +1,205 @@
+#version 2
+#name cities
+#subs default
+
+#class add vietnam
+> Cần Thơ
+> Đà Nẵng
+> Hải Phòng
+> Hà Nội
+> Hồ Chí Minh City
+> Bà Rịa
+> Bạc Liêu
+> Bắc Giang
+> Bắc Ninh
+> Bảo Lộc
+> Biên Hòa
+> Bến Tre
+> Buôn Ma Thuột
+> Cà Mau
+> Cẩm Phả
+> Cao Lãnh
+> Châu Đốc
+> Đà Lạt
+> Điện Biên Phủ
+> Đông Hà
+> Đồng Hới
+> Hà Tĩnh
+> Hạ Long
+> Hải Dương
+> Hòa Bình
+> Hội An
+> Huế
+> Hưng Yên
+> Kon Tum
+> Lạng Sơn
+> Lào Cai
+> Long Xuyên
+> Móng Cái
+> Mỹ Tho
+> Nam Định
+> Ninh Bình
+> Nha Trang
+> Cam Ranh
+> Phan Rang–Tháp Chàm
+> Phan Thiết
+> Phủ Lý
+> Pleiku
+> Quảng Ngãi
+> Quy Nhơn
+> Rạch Giá
+> Sa Đéc
+> Sóc Trăng
+> Sơn La
+> Tam Kỳ
+> Tân An
+> Thái Bình
+> Thái Nguyên
+> Thanh Hóa
+> Trà Vinh
+> Tuy Hòa
+> Tuyên Quang
+> Uông Bí
+> Việt Trì
+> Vinh
+> Vĩnh Yên
+> Vĩnh Long
+> Vũng Tàu
+> Yên Bái
+#class remove vietnam
+
+#class add westernsahara
+> El Aaiún
+> Ad-Dakhla
+> Smara
+> Cape Bojador
+> El Marsa
+> Hawza
+> Mahbes
+> Guelta Zemmur
+> Bir Anzarane
+> Tichla
+> Ausert
+> El Aargub
+> Bou Craa
+> Lemseid
+> Umm Dreiga
+> Jdiriya
+> Farciya
+> Zbayra
+> Chalwa
+> Aridal
+> As-Sakn
+> Al Ga'da
+> Bir Gandus
+> Guerguerat
+> Amgala
+> Bir Lehlou
+> Tifariti
+> Meharrize
+> Zug
+> Dougaj
+> Agounit
+> Mijek 
+> Lagouira
+#class remove westernsahara
+
+#class add yemen
+> Sana'a
+> Ta'izz
+> Al Hudaydah
+> Aden
+> Ibb
+> Dhamar
+> Al Mukalla
+> Zinjibar
+> Sayyan
+> Ash Shihr
+> Sahar
+> Zabid
+> Hajjah
+> Bajil District
+> Dhi as-Sufal
+> Rada'
+> Socotra
+> Bait al-Faqih
+> al-Marawi'a
+> Yarim
+> Al Bayda'
+> Amran
+> Lahij
+> Abs
+> Harad
+> Dimnat Chadir
+> Ataq
+> al-Mahabischa
+> Baihan
+> Marib
+> Thula
+> as-Saidiyya
+> Mudiyah
+> Chamr
+> Hais
+> ad-Dahi
+> Mocha
+> Al Ghaydah
+> Al Mahwit
+#class remove yemen
+
+#class add zambia
+> Lusaka
+> Ndola
+> Kitwe
+> Kabwe
+> Chingola
+> Mufulira
+> Livingstone
+> Luanshya
+> Kasama
+> Chipata
+> Lusaka
+> Ndola
+> Kitwe
+> Kabwe
+> Chingola
+> Mufulira
+> Livingstone
+> Luanshya
+> Kasama
+> Chipata
+> Lusaka
+> Ndola
+> Kitwe
+> Kabwe
+> Chingola
+> Mufulira
+#class remove zambia
+
+#class add zimbabwe
+> Harare
+> Bulawayo
+> Chitungwiza
+> Mutare
+> Epworth
+> Gweru
+> Kwekwe
+> Kadoma
+> Masvingo
+> Chinhoyi
+> Norton
+> Marondera
+> Ruwa
+> Chegutu
+> Zvishavane
+> Bindura
+> Beitbridge
+> Redcliff
+> Victoria Falls
+> Rusape
+> Chiredzi
+> Kariba
+> Karoi
+> Chipinge
+> Gokwe
+> Shurugwi
+#class remove Zimbabwe
