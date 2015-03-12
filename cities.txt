@@ -2,6 +2,237 @@
 #name cities
 #subs default
 
+#class add 
+#class remove 
+#class add 
+#class remove 
+#class add 
+#class remove 
+#class add 
+#class remove 
+#class add 
+#class remove 
+#class add 
+
+#class remove 
+
+#class add vanatau
+> Avire
+> Bunlap
+> Forari
+> Ipikil
+> Ipota
+> Isangel
+> Lakatoro
+> Lamap
+> Loltong
+> Longana
+> Lorevilko
+> Luganville
+> Lenakel
+> Norsup
+> Port Olry
+> Port Vila
+> Rovo Bay
+> Sola
+> Sulphur Bay
+> Whitesands
+#class remove vanatau
+
+#class add venezuela
+> Caracas
+> Maracaibo
+> Valencia
+> Barquisimeto
+> Maracay
+> Ciudad Guayana
+> Barcelona
+> Maturín
+> Turmero
+> Mérida
+> Ciudad Bolívar
+> Barinas
+> Los Teques
+> Punto Fijo
+> La Guaira
+> Santa Teresa del Tuy
+> Cumaná
+> El Vigía
+> San Cristóbal
+> San Felipe
+> Puerto La Cruz
+> Cabimas
+> Guatire
+> San Diego
+> Porlamar
+> Cúa
+> Guarenas
+> San Fernando de Apure*
+> Pedernales
+> Los Guayos
+> Upata
+> Ocumare del Tuy
+> Puerto Cabello
+> Guacara
+> El Tigre
+> Machiques
+> El Limón
+> Naguanagua
+> Acarigua
+> La Victoria
+> Valle de la Pascua
+> Zaraza
+> Coro*
+> Valera
+> Cabudare
+> Charallave
+> Ciudad Ojeda
+> Palo Negro
+> Táriba
+> San Juan de Los Morros*
+> Yaritagua
+> La Villa del Rosario
+> Cagua
+> Anaco
+> Calabozo
+> Mariara
+> Guanare*
+> Carúpano
+> Araure
+> Ejido
+> Catia La Mar
+> Carora
+> Guasdualito
+> La Grita
+> Guama
+> San Carlos*
+> Boconó
+> San Antonio de Los Altos
+> Tucupita
+> Quíbor
+> San José de Guanipa
+> Tinaquillo
+> Güigüe
+> Chivacoa
+> Caripito
+> Colón
+> Sanare
+> San Antonio del Táchira
+> San Joaquín
+> Cantaura
+> El Consejo
+> El Tocuyo
+> Puerto Ayacucho*
+> Ospino
+> Trujillo*
+> San Mateo
+> Pampatar
+> Guanta
+> Pariguán
+> Santa Elena de Uairén
+> Santa Cruz
+> La Asunción
+> Juan Griego
+> Aragua de Barcelona
+> Dabajuro
+> Tinaco
+> Higuerote
+> Palmira
+> Michelena
+> Valle de Guanape
+> Queniquea
+> Barbacoas
+> Bailadores
+> Santa Ana
+> Clarines
+> Soledad
+> Colonia Tovar
+> El Socorro
+> Cojedes
+> Río Caribe
+> San Mateo
+> Sarare
+> Tucacas
+> Onoto
+> Puerto Píritu
+> El Chaparro
+> Caigua
+> Ocumare de la Costa
+> Guachara
+> Camatagua
+> Puerto Páez
+> San Fernando de Atabapo
+> Maripa
+> San Miguel
+> Vidoño
+> Isla Ratón
+> Mucuchíes
+> Sabaneta
+> Sinamaica
+> San Carlos de Río Negro
+> Ciudad Sucre
+> San Juan de Manapiare
+> Maroa
+> La Esmeralda
+> Lechería
+> Mapire
+> San Tomé
+> Urica
+> Zuata
+> Achaguas
+> Arichuna
+> Biruaca
+> Bruzual
+> El Amparo
+> Elorza
+> Mantecal
+> San Juan de Payara
+> San Casimiro
+> San Sebastián
+> Arismendi
+> Caicara del Orinoco
+> El Callao
+> El Dorado
+> El Paují
+> Guasipati
+> Iboriwo
+> Kavanayen
+> Paraitepuy de Roraima
+> San Francisco de Yuruaní
+> San Rafael de Kamoirán
+> Wönken
+> Bejuma
+> Morón
+> Tocuyito
+> El Pao
+> Curiapo
+> Urumaco
+> Altagracia de Orituco
+> Chaguaramas
+> Guayabal
+> Ortiz
+> Cúpira
+> Mamporal
+> Río Chico
+> San Francisco de Yare
+> San José de Barlovento
+> Santa Lucía
+> Aragua de Maturín
+> Caripe
+> Punta de Mata
+> Araya
+> Casanay
+> Marigüitar
+> La Fría
+> Pregonero
+> Santa Ana del Táchira
+> La Quebrada
+> Monte Carmelo
+> Maiquetia
+> San Rafael del Moján
+> San Carlos del Zulia
+#class remove venezuela
+
 #class add vietnam
 > Cần Thơ
 > Đà Nẵng
