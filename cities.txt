@@ -6,15 +6,298 @@
 #class remove 
 #class add 
 #class remove 
-#class add 
-#class remove 
-#class add 
-#class remove 
-#class add 
-#class remove 
-#class add 
 
-#class remove 
+#class add unitedarabemirates
+> Abu Dhabi
+> Al Ain
+> Al Awdah
+> Al Fahlaiyn
+> Al Fulayyah
+> Al Faraa'
+> Al Ghabah
+> Al Ghaban
+> Al Ghashban
+> Al Hamraniya
+> Al Hamriya
+> Al Hayba
+> Al Hayr
+> Al Hayrah
+> Al Hulaylah
+> Al Jaddah
+> Al Khari
+> Al Khashfah
+> Al Mahamm
+> Al Masafirah
+> Al Mataf
+> Al Mu'amurah
+> Al Naslah
+> Al Qir
+> Al Quwayz
+> Al Usayli
+> Al Yahar
+> Ar Rafa'ah
+> Arthaban
+> Athabat
+> Ash Sha'm
+> As Sur
+> Awanat
+> Baqal
+> Bidiyah
+> Daftah
+> Dhadna
+> Dibba Al-Fujairah
+> Dibba Al-Hisn
+> Dubai
+> Fujairah
+> Kalba
+> Kawr Fakkān
+> Mīnā' Jabal 'Alī
+> Mīnā' Şaqr
+> Mīnā' Zāyid
+> Ras al-Khaimah
+> Umm al-Qaiwain
+> Quţūf
+> Ruwais
+> Sila
+#class remove unitedarabemirates
+
+#class add uk
+#class add england
+> Bath
+> Birmingham
+> Bradford
+> Brighton & Hove
+> Bristol
+> Cambridge
+> Canterbury
+> Carlisle
+> Chelmsford
+> Chester
+> Chichester
+> Coventry
+> Derby
+> Durham
+> Ely
+> Exeter
+> Gloucester
+> Hereford
+> Kingston upon Hull
+> Lancaster
+> Leeds
+> Leicester
+> Lichfield
+> Lincoln
+> Liverpool
+> City of London
+> Manchester
+> Newcastle upon Tyne
+> Norwich
+> Nottingham
+> Oxford
+> Peterborough
+> Plymouth
+> Portsmouth
+> Preston
+> Ripon
+> St Albans
+> Salford
+> Salisbury
+> Sheffield
+> Southampton
+> Stoke-on-Trent
+> Sunderland
+> Truro
+> Wakefield
+> Wells
+> City of Westminster
+> Winchester
+> Wolverhampton
+> Worcester
+> York
+# class remove england
+
+#class add scotland
+> Aberdeen
+> Dundee
+> Edinburgh
+> Glasgow
+> Inverness
+> Perth
+> Stirling
+#class remove scotland
+
+#class add wales
+> Bangor
+> Cardiff
+> Newport
+> St Asaph
+> St David's
+> Swansea
+#class remove wales
+
+#class add northernireland
+> Armagh
+> Belfast
+> Derry
+> Lisburn
+> Newry
+#class remove northernireland
+
+#class remove uk
+
+#class add uruguay
+> Montevideo
+> Salto
+> Ciudad de la Costa
+> Paysandú
+> Las Piedras
+> Rivera
+> Maldonado
+> Tacuarembó
+> Melo
+> Mercedes
+> Artigas
+> Minas
+> San José de Mayo
+> Durazno
+> Florida
+> Barros Blancos
+> Ciudad del Plata
+> San Carlos
+> Colonia del Sacramento
+> Pando
+> Treinta y Tres
+> Rocha
+> Fray Bentos
+> Trinidad
+> La Paz
+> Canelones
+> Carmelo
+> Dolores
+> Young
+> Santa Lucía
+> Progreso
+> Río Branco
+> Paso de los Toros
+> Juan Lacaze
+> Bella Unión
+> Nueva Helvecia
+> Libertad
+> Rosario
+> Nueva Palmira
+> Chuy
+> Punta del Este
+> Piriápolis
+> Salinas
+> Parque del Plata
+> Lascano
+> Castillos
+> Tranqueras
+> Sarandí del Yí
+> San Ramón
+> Tarariras
+> Pan De Azúcar
+> Sauce
+> Sarandí Grande
+> Atlántida
+> José Pedro Varela
+> Tala
+> Guichón
+> Cardona
+> San Jacinto
+> Toledo
+> Vergara
+> Santa Rosa
+> Florencio Sánchez
+> La Paloma
+> San Gregorio de Polanco
+> Ombúes de Lavalle
+> Colonia Valdense
+> Cerrillos
+> Aiguá
+> Migues
+> Dr. Francisco Soca
+#class remove uruguay
+
+#class add uzbekistan
+> Afrasiab
+> Ak-Dar'ya
+> Akkula
+> Akmal-Abad
+> Andijon
+> Angren
+> Aqbaytal
+> Aqrabat
+> Asaka
+> Baxt
+> Bekobod
+> Beruniy
+> Bukhara
+> Buzaubay
+> Chimboy
+> Chirchiq
+> Chortoq
+> Dashtobod
+> Denov
+> Fergana
+> Guliston
+> G'uzor
+> G'ijduvon
+> Haqqulobod
+> Jangeldi
+> Jizzax
+> Juma
+> Kattaqo‘rg‘on
+> Karakapalkiya
+> Khiva
+> Kogon
+> Kokand
+> Kosonsoy
+> Kungrad
+> Margilan
+> Mashiquduq
+> Minchuqur
+> Mo‘ynoq
+> Namangan
+> Navoiy
+> Nukus
+> Nurota
+> Ohangaron
+> Olgaing
+> Olmaliq
+> Oqtosh
+> Piskent
+> Qarshi
+> Qorako‘l
+> Qorasuv
+> Quva
+> Quvasoy
+> Rishdan
+> Samarqand
+> Shahrisabz
+> Shahrihon
+> Shirabad
+> Shirin
+> Sirdaryo
+> Tashkent
+> Taxiatosh
+> Termez
+> Tomdibuloq
+> To‘ytepa
+> Turtkul
+> Uchqo‘rg‘on
+> Uchquduq
+> Urganch
+> Urgut
+> Vobkent
+> Xonobod
+> Xo‘jayli
+> Yangiobod
+> Yangiyer
+> Yangiyo‘l
+> Yasliq
+> Zarafshon
+#class remove uzbekistan
 
 #class add vanatau
 > Avire
