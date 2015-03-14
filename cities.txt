@@ -14,11 +14,533 @@
 #class add 
 #class remove 
 
-#class add 
-#class remove 
+#class add trinidadtobago
+> Arima
+> Arnos Vale
+> Arouca
+> Auzonville
+> Avocat
+> Bacolet
+> Balmain
+> Bamboo Village
+> Barataria
+> Barrackpore
+> Basterhall
+> Beetham Gardens
+> Bethel
+> Belle Garden
+> Belmont
+> Ben Lomond
+> Biche
+> Black Rock
+> Blanchisseuse
+> Boissiere Village
+> Bon Accord
+> Bonne Aventure
+> Bonasse
+> Borde Narve Village
+> Bourg Mulatresse
+> Brasso
+> Brasso Seco
+> Brazil
+> Brickfield
+> Brighton
+> Buccoo
+> Buen Intento Village
+> Buenos Ayres
+> California
+> Caigual
+> Canaan (Tobago)
+> Canaan (Trinidad)
+> Calder Hall
+> Cantaro
+> Carapichaima
+> Carenage
+> Carli Bay
+> Carlsen Field
+> Carnbee
+> Cascade
+> Castara
+> Caura
+> Cedar Hill
+> Cedros
+> Centeno
+> Chaguanas
+> Chaguaramas
+> Champs Fleurs
+> Chandernagore Village
+> Charlotteville
+> Charuma
+> Chase Village
+> Chatham
+> Churkoo Village
+> Claxton Bay
+> Cocorite
+> Cocoyea Village
+> Coryal
+> Couva
+> Culloden
+> Cumaca
+> Cumuto
+> Cunupia
+> Curepe
+> Cushe
+> D'Abadie
+> Debe
+> Delaford
+> Dibe
+> Diego Martin
+> Dinsley
+> East-West Corridor
+> Ecclesville
+> Eckel Village
+> Edinburgh
+> El Dorado
+> El Socorro
+> Enterprise
+> Endeavour
+> Erin
+> Exchange Village
+> Felicity
+> Fifth Company
+> Fishing Pond
+> Flanigin Town
+> Freeport
+> Forres Park
+> Four Roads
+> Frederick Settlement
+> Friendship Village
+> Fullarton
+> Fyzabad
+> Gasparillo
+> Glamorgan
+> Glencoe
+> Golconda
+> Gonzales
+> Goodwood Park
+> Gran Couva
+> Grande Riviere
+> Guaico
+> Guanapo
+> Guapo
+> Guayaguayare
+> Gulf View
+> Hardbargin
+> Hindustan
+> Icacos
+> Iere Village
+> Indian Chain
+> Indian Walk
+> Jerningham Junction
+> John John
+> Jordan Hill
+> Kelly Village
+> Kernaham
+> L'Anse Fourmi
+> L'Anse Mitan
+> La Brea
+> La Canoa
+> La Horquetta
+> La Paille
+> La Romaine
+> La Seiva
+> Lambeau
+> Las Cuevas
+> Laventille
+> Lengua, Trinidad and Tobago
+> Les Coteaux
+> Longdenville
+> Lopinot
+> Los Bajos
+> Louis D'Or
+> Lowlands
+> Macoya
+> Madras Settlement
+> Mairao Village
+> Malabar
+> Malick
+> Manzanilla
+> Marabella
+> Maracas
+> Maraval
+> Mason Hall
+> Matelot
+> Matura
+> Mausica
+> Mayaro
+> Mayo
+> McBean
+> Mohammedville
+> Mon Repos
+> Montrose
+> Monkey Town
+> Montserrat
+> Moriah
+> Morne Diablo
+> Morne Quinton
+> Moruga
+> Morvant
+> Mount D'Or
+> Mount Lambert
+> Mount Saint George
+> Mount Stewart
+> Mucurapo
+> Navet
+> New Grant
+> O'Meara
+> Orange Field
+> Orange Valley
+> Oropune Village
+> Oropouche
+> Otaheite
+> Palmyra
+> Palo Seco
+> Pembroke
+> Penal
+> Petit Trou
+> Petit Valley
+> Phoenix Park
+> Piarco
+> Pierreville
+> Piparo
+> Plaisance
+> Plaisance Park
+> Plymouth
+> Point Fortin
+> Point Lisas
+> Pointe-à-Pierre
+> Poole
+> Port of Spain
+> Preysal
+> Princes Town
+> Quarry Village
+> Rockly Vale
+> Rampanalgas
+> Ravin Anglais
+> Redhead
+> Rio Claro
+> Roussillac
+> Roxborough
+> St. Ann's
+> St. Augustine
+> St. Barb's
+> St. Clair
+> St. Helena
+> St. James
+> St. Joseph
+> St. Mary's
+> Sainte Madeleine
+> San Fernando
+> San Francique
+> San Juan
+> San Raphael
+> Sans Souci
+> Sangre Chiquito
+> Sangre Grande
+> Santa Cruz
+> Santa Flora
+> Santa Margarita
+> Santa Rosa
+> Savonetta
+> Scarborough
+> Signal Hill
+> Siparia
+> South Oropouche
+> Speyside
+> Spring Village
+> Straker Village
+> Studley Park
+> Syne Village
+> Tabaquite
+> Tacarigua
+> Talparo
+> Teschier Village
+> Thick Village
+> Third Company
+> Toco
+> Tortuga
+> Trincity
+> Trou Macaque
+> Tunapuna
+> Union Village
+> Valencia
+> Valsayn
+> Vega de Oropouche
+> Vessigny
+> Vistabella
+> Waterloo
+> Westmoorings
+> Whiteland
+> Williamsville
+#class remove trinidadtobago
 
-#class add 
-#class remove 
+#class add tunisia
+> Ariana
+> Ettadhamen-Mnihla
+> Kalâat el-Andalous
+> Raoued
+> Sidi Thabet
+> La Soukra
+> Béja
+> El Maâgoula
+> Goubellat
+> Medjez el-Bab
+> Nefza
+> Téboursouk
+> Testour
+> Zahret Mediou
+> Ben Arous
+> Bou Mhel el-Bassatine
+> El Mourouj
+> Ezzahra
+> Hammam Chott
+> Hammam Lif
+> Khalidia
+> Mégrine
+> Mohamedia-Fouchana
+> Mornag
+> Radès
+> Aousja
+> Bizerte
+> El Alia
+> Ghar El Melh
+> Mateur
+> Menzel Bourguiba
+> Menzel Jemil
+> Menzel Abderrahmane
+> Metline
+> Raf Raf
+> Ras Jebel
+> Sejenane
+> Tinja
+> Saounin
+> Cap Zebib
+> Beni Ata
+> Chenini Nahal
+> El Hamma
+> Gabès
+> Ghannouch
+> Mareth
+> Matmata
+> Métouia
+> Nouvelle Matmata
+> Oudhref
+> Zarat
+> El Guettar
+> El Ksar
+> Gafsa
+> Mdhila
+> Métlaoui
+> Moularès
+> Redeyef
+> Sened
+> Aïn Draham
+> Beni M'Tir
+> Bou Salem
+> Fernana
+> Ghardimaou
+> Jendouba
+> Oued Melliz
+> Tabarka
+> Aïn Djeloula
+> Alaâ
+> Bou Hajla
+> Chebika
+> Echrarda
+> Oueslatia
+> Haffouz
+> Hajeb El Ayoun
+> Kairouan
+> Menzel Mehiri
+> Nasrallah
+> Sbikha
+> Fériana
+> Foussana
+> Haïdra
+> Jedelienne
+> Kasserine
+> Magel Bel Abbès
+> Sbeïtla
+> Sbiba
+> Thala
+> Thélepte
+> Douz
+> El Golâa
+> Jemna
+> Kébili
+> Souk Lahad
+> Dahmani
+> Jérissa
+> El Ksour
+> Kalaat Senan
+> Kalâat Khasba
+> Le Kef
+> Menzel Salem
+> Nebeur
+> Sakiet Sidi Youssef
+> Sers
+> Tajerouine
+> Touiref
+> Bou Merdes
+> Chebba
+> Chorbane
+> El Bradâa
+> El Jem
+> Essouassi
+> Hebira
+> Hiboun
+> Kerker
+> Ksour Essef
+> Mahdia
+> Melloulèche
+> Ouled Chamekh
+> Rejiche
+> Sidi Alouane
+> Borj El Amri
+> Den Den
+> Douar Hicher
+> Djedeida
+> El Battan
+> Oued Ellil
+> La Manouba
+> Mornaguia
+> Tebourba
+> Ajim
+> Ben Gardane
+> Beni Khedache
+> Houmt Souk
+> Médenine
+> Midoun
+> Zarzis
+> Amiret El Fhoul
+> Amiret El Hojjaj
+> Amiret Touazra
+> Bekalta
+> Bembla
+> Beni Hassen
+> Bennane
+> Bouhjar
+> Cherahil
+> El Masdour
+> Ghenada
+> Jemmal
+> Khniss
+> Ksar Hellal
+> Ksibet el-Médiouni
+> Lamta
+> Menzel Ennour
+> Menzel Farsi
+> Menzel Hayet
+> Menzel Kamel
+> Moknine
+> Monastir
+> Sayada
+> Ouerdanin
+> Azmour
+> Béni Khalled
+> Béni Khiar
+> Bou Argoub
+> Dar Allouch
+> Dar Chaabane
+> El Haouaria
+> El Maâmoura
+> El Mida
+> Grombalia
+> Hammam Ghezèze
+> Hammamet
+> Kélibia
+> Kerkouane
+> Korba
+> Korbous
+> Menzel Bouzelfa
+> Menzel Horr
+> Menzel Temime
+> Nabeul
+> Soliman
+> Somâa
+> Takelsa
+> Tazerka
+> Zaouiet Djedidi
+> Agareb
+> Bir Ali Ben Khélifa
+> Bir Salah
+> Chihia
+> El Aïn
+> Graïba
+> Gremda
+> Jebiniana
+> Kerkennah
+> El Hencha
+> Mahrès
+> Menzel Chaker
+> Sakiet Eddaïer
+> Sakiet Ezzit
+> Sfax
+> Skhira
+> Thyna
+> Bir El Hafey
+> Cebbala Ouled Asker
+> Jilma
+> Menzel Bouzaiane
+> Meknassy
+> Mezzouna
+> Ouled Haffouz
+> Regueb
+> Sidi Ali Ben Aoun
+> Sidi Bouzid
+> Bargou
+> Bou Arada
+> El Aroussa
+> El Krib
+> Gaâfour
+> Kesra
+> Makthar
+> Rouhia
+> Sidi Bou Rouis
+> Siliana
+> Akouda
+> Bouficha
+> Enfida
+> Ezzouhour
+> Hammam Sousse
+> Hergla
+> Kalâa Kebira
+> Kalâa Seghira
+> Kondar
+> Ksibet Thrayet
+> Messaadine
+> M'saken
+> Sousse
+> Sidi Bou Ali
+> Sidi El Hani
+> Zaouiet Sousse
+> Bir Lahmar
+> Dehiba
+> Ghomrassen
+> Remada
+> Tataouine
+> Degache
+> El Hamma du Jérid
+> Nefta
+> Tamerza
+> Tozeur
+> Carthage
+> La Goulette
+> La Marsa
+> Le Bardo
+> Le Kram
+> Khereddine
+> Sidi Bou Saïd
+> Sidi Hassine
+> Tunis
+> El Fahs
+> Djebel Oust
+> Bir Mcherga
+> Nadhour
+> Zaghouan
+> Zriba
+
+#class remove tunisia
 
 #class add turkey
 > Istanbul
